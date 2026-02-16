@@ -5,7 +5,6 @@ export const Card = ({ title }) => {
 
   const sumar = () => {
     setSumTotal(sumTotal + 1);
-    console.log(sumTotal)
   };
   return (
     <>
