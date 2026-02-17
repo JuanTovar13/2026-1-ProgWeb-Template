@@ -2,9 +2,6 @@ import { useState } from 'react';
 import './Form.css';
 
 export const Form = () => {
-  //const [email, setEmail] = useState('');
-  //const [password, setPassword] = useState('');
-
   const [userData, setUserData] = useState({
     email: '',
     password: '',
