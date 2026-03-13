@@ -1,0 +1,10 @@
+.list {
+  padding: '40px';
+  font-family: 'Arial';
+}
+
+.cards {
+  display: 'flex';
+  flex-wrap: 'wrap';
+  gap: '20px';
+}
